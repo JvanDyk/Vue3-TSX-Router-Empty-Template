@@ -16,4 +16,4 @@ Learn more about react threading
 https://reactnative.dev/architecture/threading-model
 
 Why Vue?
-Vue just as fast as React and combined with React Native allows develoeprs to deploy to the web and to mobile platforms using the same code.
+Vue just as fast as React and combined with React Native allows developers to deploy to the web and to mobile platforms using the same code. Easiest solution for continious development by plugging it straight into your browser and moving over to a Single Page Application framework.
